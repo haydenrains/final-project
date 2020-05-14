@@ -2,7 +2,7 @@
 # final-project
 <!--Hayden Rains-->
 [github](http://github.com)
-[github](http://github/README.md.com)
+[github](https://github.com/haydenrains/final-project/edit/master/finalREADME.md)
 function() {
 	var display = document.githubById('display');
 	var displayHTML = ""; 
